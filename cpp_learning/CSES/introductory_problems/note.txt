@@ -1,0 +1,36 @@
+Example 1:
+Input: 7 (sum =  28) -> success
+My goal: two group, each = 14
+1 + 6
+2 + 5
+3 + 4
+7
+
+Example 2:
+Input: 6 (sum = 21) -> fail
+
+Example 3:
+Input: 5 (sum = 15) -> fail
+
+Example 4:
+Input: 4 (sum = 10) -> success
+My goal: two group, each = 5
+1 + 4
+2 + 3
+
+Example 5:
+Input: 3 (sum = 6) -> success
+My gaol: two group, each = 3
+1 + 2
+3
+
+Example 6:
+Input: 8 (sum = 36) -> success
+My goal: two group, each = 18
+1 + 8
+2 + 7
+3 + 6
+4 + 5
+
+1 2 3 4 5 6 7 8
+n n y y n n y y
