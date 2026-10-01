@@ -1,0 +1,11 @@
+2026/10/1
+--------------------
+- Palindrome Reorder
+    - input: AAAACACBA
+        - A: 6
+        - B: 1
+        - C: 2
+    - output: AACABACAA
+    - sol:
+        - map<char, int>
+        - find odd -> first output
