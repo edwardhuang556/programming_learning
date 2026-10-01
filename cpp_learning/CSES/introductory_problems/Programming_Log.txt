@@ -1,6 +1,6 @@
 2026/10/1
 --------------------
-- Palindrome Reorder
+- Palindrome Reorder (TLE:70%)
     - input: AAAACACBA
         - A: 6
         - B: 1
